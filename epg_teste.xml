@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ChatGPT-EPG-Test">
+  <channel id="cnn.us">
+    <display-name>CNN</display-name>
+  </channel>
+  <channel id="globo.br">
+    <display-name>Globo</display-name>
+  </channel>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="cnn.us">
+    <title lang="pt">CNN - Programa 1</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="cnn.us">
+    <title lang="pt">CNN - Programa 2</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="cnn.us">
+    <title lang="pt">CNN - Programa 3</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="cnn.us">
+    <title lang="pt">CNN - Programa 4</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="cnn.us">
+    <title lang="pt">CNN - Programa 5</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="cnn.us">
+    <title lang="pt">CNN - Programa 6</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="globo.br">
+    <title lang="pt">Globo - Programa 1</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="globo.br">
+    <title lang="pt">Globo - Programa 2</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="globo.br">
+    <title lang="pt">Globo - Programa 3</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="globo.br">
+    <title lang="pt">Globo - Programa 4</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="globo.br">
+    <title lang="pt">Globo - Programa 5</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="globo.br">
+    <title lang="pt">Globo - Programa 6</title>
+    <desc lang="pt">EPG de teste (24h).</desc>
+  </programme>
+</tv>
