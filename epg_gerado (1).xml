@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ChatGPT-EPG">
+  <channel id="cnn.us">
+    <display-name>CNN</display-name>
+  </channel>
+  <channel id="espn.us">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="nbc.us">
+    <display-name>NBC</display-name>
+  </channel>
+  <channel id="cbs.us">
+    <display-name>CBS</display-name>
+  </channel>
+  <channel id="abc.us">
+    <display-name>ABC</display-name>
+  </channel>
+  <channel id="fox.us">
+    <display-name>FOX</display-name>
+  </channel>
+  <channel id="hbo.us">
+    <display-name>HBO</display-name>
+  </channel>
+  <channel id="pbs.us">
+    <display-name>PBS</display-name>
+  </channel>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="cnn.us">
+    <title lang="en">CNN - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="espn.us">
+    <title lang="en">ESPN - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="nbc.us">
+    <title lang="en">NBC - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="cbs.us">
+    <title lang="en">CBS - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="abc.us">
+    <title lang="en">ABC - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="fox.us">
+    <title lang="en">FOX - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="hbo.us">
+    <title lang="en">HBO - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 1)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 2)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 3)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 4)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 5)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 6)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 1 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 2 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 3 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 4 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 5 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="pbs.us">
+    <title lang="en">PBS - Programa 6 (Dia 7)</title>
+    <desc lang="en">Grade fictícia gerada automaticamente.</desc>
+    <category>Variedades</category>
+  </programme>
+</tv>
