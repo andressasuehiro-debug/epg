@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ChatGPT-EPG-M3U">
+  <channel id="Globo Brasilia HD">
+    <display-name>Globo Brasília HD</display-name>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name>Cartoon Network HD</display-name>
+  </channel>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 1 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 2 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 3 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 4 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 5 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="Globo Brasilia HD">
+    <title lang="pt">Globo Brasília HD - Programa 6 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926030000 +0000" stop="20250926070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926070000 +0000" stop="20250926110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926110000 +0000" stop="20250926150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926150000 +0000" stop="20250926190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926190000 +0000" stop="20250926230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250926230000 +0000" stop="20250927030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 1)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927030000 +0000" stop="20250927070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927070000 +0000" stop="20250927110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927110000 +0000" stop="20250927150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927150000 +0000" stop="20250927190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927190000 +0000" stop="20250927230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250927230000 +0000" stop="20250928030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 2)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928030000 +0000" stop="20250928070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928070000 +0000" stop="20250928110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928150000 +0000" stop="20250928190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928190000 +0000" stop="20250928230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250928230000 +0000" stop="20250929030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 3)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929030000 +0000" stop="20250929070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929070000 +0000" stop="20250929110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250929230000 +0000" stop="20250930030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 4)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930070000 +0000" stop="20250930110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 5)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 6)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002070000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 1 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002070000 +0000" stop="20251002110000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 2 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002150000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 3 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002150000 +0000" stop="20251002190000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 4 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002230000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 5 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+  <programme start="20251002230000 +0000" stop="20251003030000 +0000" channel="Cartoon Network HD">
+    <title lang="pt">Cartoon Network HD - Programa 6 (Dia 7)</title>
+    <desc lang="pt">Grade gerada automaticamente para teste.</desc>
+  </programme>
+</tv>
